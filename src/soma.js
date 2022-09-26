@@ -20,5 +20,7 @@ const main = () => {
 
 let numeros = [1,5,2,2,3,55,4,1,040,40,400,25,25,2,0,1,41,282,2]
 
+let teams = ['Vasco', 'CRB', 'Real Madrid', 'Barcelona', 'Manchester City']
+
 main();
 
