@@ -3,3 +3,5 @@ const adicao = (a, b) => {
 }
 
 console.log(adicao(85, 964));
+
+console.log('Hi folks')
