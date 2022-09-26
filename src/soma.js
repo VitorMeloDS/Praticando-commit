@@ -14,3 +14,8 @@ console.log(multiplicação(85, 964));
 
 console.log(adicao(23,324));
 console.log(multiplicação(23,324));
+
+
+let teams = ['Vasco', 'CRB', 'Real Madrid']
+
+teams.forEach(time => console.log(time))
