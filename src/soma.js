@@ -17,3 +17,5 @@ const main = () => {
   console.log(multiplicação(23,324));
 
 }
+
+main();
