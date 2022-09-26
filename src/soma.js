@@ -9,13 +9,16 @@ function multiplicação (a, b) {
   return a * b;
 }
 
-console.log(adicao(85, 964));
-console.log(multiplicação(85, 964));
+const main = () => {
+  console.log(adicao(85, 964));
+  console.log(multiplicação(85, 964));
+  
+  console.log(adicao(23,324));
+  console.log(multiplicação(23,324));
 
-console.log(adicao(23,324));
-console.log(multiplicação(23,324));
+}
 
+let teams = ['Vasco', 'CRB', 'Real Madrid', 'Barcelona', 'Manchester City']
 
-let teams = ['Vasco', 'CRB', 'Real Madrid', 'Barcelona']
+main();
 
-teams.forEach(time => console.log(time))
