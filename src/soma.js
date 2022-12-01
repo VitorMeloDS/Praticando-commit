@@ -15,6 +15,7 @@ const main = () => {
   
   console.log(adicao(23,324));
   console.log(multiplicação(23,324));
+  
 
 }
 
